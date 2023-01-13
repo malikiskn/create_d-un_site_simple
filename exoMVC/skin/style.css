@@ -1,0 +1,14 @@
+h1{
+    color: red;
+}
+
+body{
+text-align: center;
+
+}
+.menu ul{
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    list-style: none;
+}
